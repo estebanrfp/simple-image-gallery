@@ -1,0 +1,23 @@
+{
+  "name": "simple-image-gallery",
+  "version": "0.1.0",
+  "description": "Simple image gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gallery",
+    "photo"
+  ],
+  "dependencies": {
+    "express": "3.2.4",
+    "jquery": "^3.2.1",
+    "pug": "^2.0.0-rc.1",
+    "stylus": "^0.54.5",
+    "timeago": "^1.5.4",
+    "ts-wrapper": "^0.1.1"
+  },
+  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com> (https://desarrolloactivo.com)",
+  "license": "MIT"
+}
